@@ -1,6 +1,4 @@
 
-
- 
 namespace Students_registration.FORMS
 {
     partial class ListOfStudents
